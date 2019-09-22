@@ -19,7 +19,7 @@
  */
 
 // ** Параметры MySQL: Эту информацию можно получить у вашего хостинг-провайдера ** //
-if (file_exists(controldb.php)) {
+if (file_exists('controldb.php')) {
     /** Имя базы данных для WordPress */
     define( 'DB_NAME', 'wordpress' );
 
