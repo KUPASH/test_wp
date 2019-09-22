@@ -1,0 +1,46 @@
+
+---Downloaded files---
+The import files for: Образец содержимого were successfully downloaded!
+Initial max execution time = 180
+Files info:
+Site URL = http://localhost
+Data file = W:\domains\wordpress/wp-content/themes/sydney/demo-content/demo-content.xml
+Widget file = W:\domains\wordpress/wp-content/themes/sydney/demo-content/demo-widgets.wie
+Customizer file = W:\domains\wordpress/wp-content/themes/sydney/demo-content/demo-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "imac-606765_1280" (Медиафайлы)
+
+
+---Importing widgets---
+Боковая колонка : 
+
+Поиск - No Title - Widget already exists
+Свежие записи - No Title - Widget already exists
+Свежие комментарии - No Title - Widget already exists
+Архивы - No Title - Widget already exists
+Рубрики - No Title - Widget already exists
+Мета - No Title - Widget already exists
+
+Подвал1 : 
+
+Видео - No Title - Imported
+
+Подвал2 : 
+
+Текст - No Title - Imported
+
+Подвал3 : 
+
+Sydney: Contact info - Get in touch - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
